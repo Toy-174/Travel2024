@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    background-image: linear-gradient(to right, #BBE7FA, white, #BBE7FA);
+    height: 150px;
+}
+
+article {
+    display: block;
+    position: fixed;
+    width: 222;
+}
